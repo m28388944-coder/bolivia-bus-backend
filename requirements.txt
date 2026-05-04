@@ -14,3 +14,9 @@ reportlab==4.1.0
 httpx==0.27.0
 psycopg2-binary
 emails
+twilio
+canvas-confetti
+websockets
+pillow
+celery
+redis
